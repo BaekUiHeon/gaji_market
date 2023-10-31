@@ -1,7 +1,6 @@
 # Gaji_Market (가지마켓) 
 
 ## [홈페이지 구경하기](http://ec2-3-34-124-55.ap-northeast-2.compute.amazonaws.com/)
-## [홈페이지 구경하기](http://ec2-3-34-124-55.ap-northeast-2.compute.amazonaws.com/) 
 게스트ID: rkwlakzpt(가지마켓) <br> 비밀번호: rkwlakzpt123(가지마켓123)
  <br> <br> <br><br>
 
