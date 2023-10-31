@@ -1,5 +1,6 @@
-# Gaji_Market (가지마켓) 
-### 가독성을 위하여 저의 구현부분만이 포함되어 있습니다. [전체구현 git주소이동(Click)](https://github.com/bellho/gaji_market)<br>
+# Gaji_Market (가지마켓) <br>
+### 가독성을 위하여 BaekUiHeon의 담당 구현부분만이 포함되어 있습니다.   <br>➡️[전체구현 git주소이동(Click)](https://github.com/bellho/gaji_market)<br>
+#
 
 
 ## [홈페이지 구경하기(AWS 배포 완료)](http://ec2-3-34-124-55.ap-northeast-2.compute.amazonaws.com/)
